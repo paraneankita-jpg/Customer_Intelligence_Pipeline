@@ -69,17 +69,7 @@ Finally, Power BI was connected to the database using a SQL connector. KPI cards
 - 🚚 **Evaluate express shipping:** Express-shipping customers show slightly higher average spending, so premium shipping options could be explored as part of the customer experience strategy.
 - 🔄 **Re-evaluate the subscription program:** Since average spending is almost the same for subscribers and non-subscribers, analyze subscription benefits and conversion drivers before increasing promotional investment.
 
-## 📁 Project Files
 
-- `data_cleaning.py` — Python ETL and data-cleaning workflow
-- `analysis.sql` — SQL queries used for EDA and business questions
-- `analysis.ipynb` — Jupyter notebook for Python-based analysis
-- `powerbi_dashboard.pbix` — Power BI dashboard file
-- `Project_Report.pdf` — Detailed project documentation and findings
-- `README.md` — Project overview and documentation
-- `dashboard_link` — 🔗 Power BI / dashboard link
-
-> **Note:** Update the file names and `dashboard_link` above to match the actual files included in your GitHub repository.
 
 ## 📌 Business Questions Answered
 
